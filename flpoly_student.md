@@ -2,7 +2,7 @@
 
 ### Term Year 
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA falucty at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
 - Course 1
 
@@ -21,3 +21,5 @@ I am _passionate about_:
 - Thing 2
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
+
+
