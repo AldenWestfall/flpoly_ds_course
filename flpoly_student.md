@@ -1,25 +1,27 @@
 ## Alden Westfall
 
-### Term Year 
+### Spring 2021 
 
-DSBA falucty at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+BA Student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Law, Public Policy, Negotiation, and Business
 
-- Course 2
+- Introduction to Data Science
 
-- Course 3
+- Principles of Microeconomics
 
-- Course 4
+- International & Comparative Dimensions of Business
+
+- Humanities: Conspiracy Theories
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Going to the gym and bodybuilding
 
-- Thing 2
+- Technology and advancements around gaming
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Having a nice setup as shown in this picture <https://imgur.com/a/Ge7brV7>
 
 
